@@ -1,0 +1,12 @@
+package com.akgarg.serversideformvalidationspringboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ServerSideFormValidationSpringBootApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ServerSideFormValidationSpringBootApplication.class, args);
+    }
+}
